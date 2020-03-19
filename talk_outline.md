@@ -1,6 +1,8 @@
 - Partners Slide
 - What is computational ecology slide
   - Data Science Venn
+- How do we do comp eco: Our version of it
+  - We mix ecology, computers, data science, and open science
 - How do we do comp eco: Past project examples (non-cyano)
 - Why cyanos?
 - How do we do comp eco: microcystin chla
@@ -16,4 +18,3 @@
 - What next: CHEAP
 - What next: Cape Code
 - What next: SURGE
--
