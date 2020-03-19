@@ -1,0 +1,19 @@
+- Partners Slide
+- What is computational ecology slide
+  - Data Science Venn
+- How do we do comp eco: Past project examples (non-cyano)
+- Why cyanos?
+- How do we do comp eco: microcystin chla
+- How do we do comp eco: random forest TS
+- How do we do comp eco: watershed watch
+- Limits with existing datasets
+- RI spatial temporal work
+- Study area
+- Methods
+- Prelim results: chla, phyco, toxin
+- Prelim results: do, ph, temp indicators
+- What next: FLAMe and buoys
+- What next: CHEAP
+- What next: Cape Code
+- What next: SURGE
+-

@@ -1,0 +1,9 @@
+---
+title: "Computational ecology approaches to understanding cyanobacteria: It's just ecology but with more computers!"
+author: "Jeff Hollister, Stephen Shivers, and Betty Kreakie"
+output: word_document
+---
+
+The questions ecologists ask have always been complex and broad.  But the data collected and analytical approaches used to answer those questions have not always matched this complexity or scale. Recently, however, our data collection efforts and methods have changed to allow for collecting more data in more places and our computational approaches have evolved to more closely match the questions being asked.  The general idea of "computational ecology" captures these changes.  In this talk, we will discuss how we combine computational ecology, open data science, field studies, and lab work to address questions around freshwater cyanobacteria.  We hope to make the case the computational ecology is just ecology, just with more computers!   
+  
+  
